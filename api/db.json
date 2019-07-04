@@ -1,5 +1,23 @@
 {
   "streams": [
-  
+    {
+      "title": "Yehor's Stream",
+      "description": "Stream about Dota2",
+      "userId": null,
+      "id": 1
+    },
+    {
+      "title": "Jake's Stream",
+      "description": "Stream about WOW classic",
+      "userId": "103907407286191213919",
+      "id": 2
+    },
+    {
+      "title": "Old Navigation",
+      "description": "Add stream with navigation",
+      "userId": "103907407286191213919",
+      "id": 3
+    }
+    
   ]
 }
